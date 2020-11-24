@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <h2>👋 Hey, I'm <a href="https://www.diegocastagna.com/en/">Diego</a></h2>
 <p>
     <a href="https://www.linkedin.com/in/diegocastagna/">
