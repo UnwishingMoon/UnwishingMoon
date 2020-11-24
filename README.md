@@ -45,6 +45,7 @@
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40px"/>
 <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40px"/>
 <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="40px"/>
+<img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" alt="oracle db" width="40px"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40px"/>
 
 <h2>📊 Stats</h2>
