@@ -21,10 +21,11 @@
 
 🚀 I love traveling and the unknown things of the universe
 
-💻 You can get a better idea by looking at my website: <a href="https://www.diegocastagna.com/en/">diegocastagna.com</a>
+💻 You can get a better idea by looking at my website: <a targe="_blank" href="https://www.diegocastagna.com/en/">diegocastagna.com</a>
 
 <h2>🛠 Languages and Tools</h2>
 
+<a href="https://www.diegocastagna.com/en/resume">
 <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go" width="35px"/>
 <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="35px"/>
@@ -47,6 +48,7 @@
 <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="35px"/>
 <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" alt="oracle db" width="35px"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35px"/>
+</a>
 
 <h2>📊 Stats</h2>
 <p>
