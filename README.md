@@ -15,7 +15,7 @@
     </a>
 </p>
 
-🔭 Currently working as **Software / Web Developer** and **System Administrator**
+🔭 Currently working as **Software / Web Developer** and **Cloud Administrator**
 
 📈 Fluent in [**PHP**, **SQL**, **Golang**]
 
