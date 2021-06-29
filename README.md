@@ -21,7 +21,7 @@
 
 🚀 I love traveling and the unknown things of the universe
 
-💻 You can get a better idea by looking at my website: <a targe="_blank" href="https://www.diegocastagna.com/en/">diegocastagna.com</a>
+💻 You can get a better idea by looking at my website: <a href="https://www.diegocastagna.com/en/">diegocastagna.com</a>
 
 <h2>🛠 Languages and Tools</h2>
 
