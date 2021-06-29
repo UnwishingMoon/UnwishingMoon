@@ -15,7 +15,7 @@
     </a>
 </p>
 
-🔭 Currently working as **Software / Web Developer** and **System Administrator**
+🔭 Currently working as **Software / Web Developer** and **more** 😜
 
 📈 Fluent in [**PHP**, **SQL**, **Golang**]
 
@@ -26,28 +26,28 @@
 <h2>🛠 Languages and Tools</h2>
 
 <a href="https://www.diegocastagna.com/en/resume">
-<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c plus plus" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" alt="android" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/vim/vim-original.svg" alt="vim" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" alt="oracle db" width="35px"/>
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c plus plus" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle db" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35px"/>
 </a>
 
 <h2>📊 Stats</h2>
