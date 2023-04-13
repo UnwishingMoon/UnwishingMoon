@@ -54,6 +54,6 @@
 
 <h2>📊 Stats</h2>
 <p>
-    <img alt="Github stats" src="https://github-readme-stats-unwishingmoon.vercel.app/api?username=UnwishingMoon&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+    <img alt="Github stats" src="https://github-readme-stats.unwishingmoon.vercel.app/api?username=UnwishingMoon&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </p>
 </div>
