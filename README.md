@@ -15,9 +15,9 @@
     </a>
 </p>
 
-🔭 Currently working as **Software / Web Developer** and **more** 😜
+🔭 Currently working as **Software Engineer** and **other roles** 😜
 
-📈 Fluent in [**PHP**, **Golang**, **Javascript**, **SQL**] and many more..
+📈 Fluent in [**PHP**, **Golang**, **Javascript**, **SQL**] and many more...
 
 🚀 I love traveling and the unknown things of the universe
 
