@@ -17,7 +17,7 @@
 
 🔭 Currently working as **Software / Web Developer** and **more** 😜
 
-📈 Fluent in [**PHP**, **SQL**, **Golang**] and many more..
+📈 Fluent in [**PHP**, **Golang**, **Javascript**, **SQL**] and many more..
 
 🚀 I love traveling and the unknown things of the universe
 
